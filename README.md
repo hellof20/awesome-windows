@@ -20,6 +20,7 @@ An awesome & curated list of best applications and tools for Windows.
 - [Disk](#disk)
 - [Compression](#compression)
 - [Videos](#videos)
+- [Prototyping and Mind-Mapping Tools](#prototyping-and-mind-mapping-tools)
 ## Developer Tools
 #### IDE
 - GoLand
@@ -67,7 +68,13 @@ An awesome & curated list of best applications and tools for Windows.
 - Shadowsocks
 ## Disk
 - TreeSize
+- Win32DiskImager
+- DiskGenius
 ## Compression
 - Bandizip
 ## Videos
 - PotPlayer
+## Prototyping and Mind-Mapping Tools
+- Axure RP 8
+- XMind
+- MockingBot
