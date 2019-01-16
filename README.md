@@ -14,8 +14,10 @@ An awesome & curated list of best applications and tools for Windows.
   - [Note-taking](#note-taking)
 - [Network](#network)
   - [NAT](#nat)
-  - [RDP](#rdp)
+  - [Remote control](#remote-control)
+  - [Packet Capture](#packet-capture)
   - [科学上网](#科学上网)
+- [Disk](#disk)
 - [Compression](#compression)
 - [Videos](#videos)
 ## Developer Tools
@@ -26,8 +28,11 @@ An awesome & curated list of best applications and tools for Windows.
 - IntelliJ IDEA
 #### Developer Utilities
 - postman
+- awscli
+- terraform
 #### Command Line Tools
 - git bash
+- xshell
 #### Version control
 - git
 #### Database Management
@@ -52,10 +57,15 @@ An awesome & curated list of best applications and tools for Windows.
 #### NAT
 - FRP
 - ngrok
-#### RDP
+#### Remote control
 - RemoteDesktopManagerFree
+- VNC-Viewer
+#### Packet Capture
+- wireshark
 #### 科学上网
 - Shadowsocks
+## Disk
+- TreeSize
 ## Compression
 - Bandizip
 ## Videos
