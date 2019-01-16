@@ -1,12 +1,17 @@
 # awesome-windows
+
+An awesome & curated list of best applications and tools for Windows.
+
 ## Contents
 
 - [Developer Tools](#developer-tools)
 
   - [IDE](#ide)
   - [Developer Utilities](#developer-utilities)
+  - [Command Line Tools](#command-line-tools)
   - [Version control](#version-control)
   - [Database Management](#database-management)
+  - [Virtualization](#virtualization)
 
 - [Communication](#communication)
 
@@ -39,6 +44,10 @@
 
 #### Developer Utilities
 
+- postman
+
+#### Command Line Tools
+
 - git bash
 
 #### Version control
@@ -49,6 +58,12 @@
 
 - DBeaver
 - Navicat
+
+#### Virtualization
+
+- vmware workstation
+- virtualbox
+- vagrant
 
 ## Communication
 
