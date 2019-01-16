@@ -21,6 +21,7 @@ An awesome & curated list of best applications and tools for Windows.
 - [Compression](#compression)
 - [Videos](#videos)
 - [Prototyping and Mind-Mapping Tools](#prototyping-and-mind-mapping-tools)
+- [Utilities](#utilities)
 ## Developer Tools
 #### IDE
 - GoLand
@@ -79,3 +80,5 @@ An awesome & curated list of best applications and tools for Windows.
 - Axure RP 8
 - XMind
 - MockingBot
+## Utilities
+- [CPU-Z](https://pan.baidu.com/s/17KNAyGOB6tTkK2l5wwLb2w) - CPU检测软件
