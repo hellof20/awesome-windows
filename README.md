@@ -47,9 +47,10 @@ An awesome & curated list of best applications and tools for Windows.
 - QQ
 - Wechat
 ## Cloud Storage
-- BaiduPCS-Go
-- awscli
-- oss-brower
+- BaiduPCS-Go - 百度网盘客户端用GO实现，比官方的客户端快N倍
+- awscli - AWS的命令行工具，可以操作AWS上的所有资源，包括对象存储
+- oss-brower - 阿里云对象存储客户端
+- cosbrowser - 腾讯云对象存储客户端
 ## Reading and Writing Tools
 #### Note-taking
 - Notepad++
