@@ -32,7 +32,6 @@ An awesome & curated list of best applications and tools for Windows.
 - postman
 - awscli
 - terraform
-- ansible
 #### Command Line Tools
 - git bash
 - xshell
