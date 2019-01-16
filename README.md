@@ -6,22 +6,21 @@
   - [IDE](#ide)
   - [Developer Utilities](#developer-utilities)
   - [Version control](#version-control)
+  - [Database Management](#database-management)
 
 - [Communication](#communication)
 
-- [SkyDrive](#skydrive)
+- [Cloud Storage](#cloud-storage)
 
-- [Note-taking](#note-taking)
+- [Reading and Writing Tools](#reading-and-writing-tools)
 
-- [NAT](#nat)
+  - [Note-taking](#note-taking)
 
-- [RDP](#rdp)
+- [Network](#network)
 
-- [Database Management](#database-management)
-
-- [科学上网](#科学上网)
-
-- [Runtime](#runtime)
+  - [NAT](#nat)
+  - [RDP](#rdp)
+  - [科学上网](#科学上网)
 
 - [Compression](#compression)
 
@@ -46,41 +45,43 @@
 
 - git
 
+#### Database Management
+
+- DBeaver
+- Navicat
+
 ## Communication
 
 - QQ
 - Wechat
 
-## SkyDrive
+## Cloud Storage
 
 - BaiduPCS-Go
 - awscli
 - oss-brower
 
-## Note-taking
+## Reading and Writing Tools
+
+#### Note-taking
 
 - Notepad++
 - Typora
 
-## NAT
+## Network
+
+#### NAT
 
 - FRP
 - ngrok
 
-## RDP
+#### RDP
 
 - RemoteDesktopManagerFree
 
-## Database Management
+#### 科学上网
 
-- DBeaver
-- Navicat
-
-## Runtime
-
-- Java8
-- Python
-- Nodejs
+- Shadowsocks
 
 ## Compression
 
@@ -90,6 +91,4 @@
 
 - PotPlayer
 
-## 科学上网
 
-- Shadowsocks
