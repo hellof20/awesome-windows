@@ -20,6 +20,7 @@ An awesome & curated list of best applications and tools for Windows.
 - [Disk](#disk)
 - [Compression](#compression)
 - [Videos](#videos)
+- [Music](#music)
 - [Prototyping and Mind-Mapping Tools](#prototyping-and-mind-mapping-tools)
 - [Utilities](#utilities)
 ## Developer Tools
@@ -76,6 +77,8 @@ An awesome & curated list of best applications and tools for Windows.
 - Bandizip
 ## Videos
 - PotPlayer
+## Music
+- foobar2000
 ## Prototyping and Mind-Mapping Tools
 - Axure RP 8
 - XMind
