@@ -59,8 +59,8 @@ An awesome & curated list of best applications and tools for Windows.
 - Typora
 ## Network
 #### NAT
-- FRP
-- ngrok
+- [FRP](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+- [ngrok](https://ngrok.com/) - One command for an instant, secure URL to your localhost server through any NAT or firewall.
 #### Remote control
 - RemoteDesktopManagerFree
 - VNC-Viewer
@@ -86,4 +86,4 @@ An awesome & curated list of best applications and tools for Windows.
 ## Utilities
 - [CPU-Z](https://pan.baidu.com/s/17KNAyGOB6tTkK2l5wwLb2w) - CPU检测软件
 - [GPU-Z](https://pan.baidu.com/s/1cBUzWQNslvL7NJV9C20XFQ) - GPU检测工具
-- [keepass](https://keepass.info) - 密码管理工具
+- [keepass](https://keepass.info) - 完全免费,开源密码管理工具
