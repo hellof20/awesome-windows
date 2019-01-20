@@ -86,3 +86,4 @@ An awesome & curated list of best applications and tools for Windows.
 ## Utilities
 - [CPU-Z](https://pan.baidu.com/s/17KNAyGOB6tTkK2l5wwLb2w) - CPU检测软件
 - [GPU-Z](https://pan.baidu.com/s/1cBUzWQNslvL7NJV9C20XFQ) - GPU检测工具
+- [keepass](https://keepass.info) - 密码管理工具
