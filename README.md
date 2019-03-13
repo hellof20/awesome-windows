@@ -57,6 +57,7 @@ An awesome & curated list of best applications and tools for Windows.
 #### Note-taking
 - Notepad++
 - Typora
+- [Grammarly](https://www.grammarly.com/)
 ## Network
 #### NAT
 - [FRP](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
