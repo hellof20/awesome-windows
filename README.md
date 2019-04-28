@@ -41,6 +41,7 @@ An awesome & curated list of best applications and tools for Windows.
 #### Database Management
 - DBeaver
 - Navicat
+- SQLWorkbench
 #### Virtualization
 - vmware workstation
 - virtualbox
